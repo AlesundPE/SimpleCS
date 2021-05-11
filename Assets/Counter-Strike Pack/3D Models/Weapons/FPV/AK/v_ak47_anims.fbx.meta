@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: 07902a95bb96f0b44b30a5e9871f27eb
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ak47_reference
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: v_weapon
+  - first:
+      1: 100006
+    second: v_weapon_AK47_Bolt
+  - first:
+      1: 100008
+    second: v_weapon_AK47_Clip
+  - first:
+      1: 100010
+    second: v_weapon_AK47_ClipRelease
+  - first:
+      1: 100012
+    second: v_weapon_AK47_Parent
+  - first:
+      1: 100014
+    second: v_weapon_AK47_Trigger
+  - first:
+      1: 100016
+    second: v_weapon_eff16
+  - first:
+      1: 100018
+    second: v_weapon_eff18
+  - first:
+      1: 100020
+    second: v_weapon_eff2
+  - first:
+      1: 100022
+    second: v_weapon_eff9
+  - first:
+      1: 100024
+    second: v_weapon_Hands_parent
+  - first:
+      1: 100026
+    second: v_weapon_L_wrist_helper
+  - first:
+      1: 100028
+    second: v_weapon_Left_Arm
+  - first:
+      1: 100030
+    second: v_weapon_Left_Hand
+  - first:
+      1: 100032
+    second: v_weapon_Left_Index01
+  - first:
+      1: 100034
+    second: v_weapon_Left_Index02
+  - first:
+      1: 100036
+    second: v_weapon_Left_Index03
+  - first:
+      1: 100038
+    second: v_weapon_Left_Middle01
+  - first:
+      1: 100040
+    second: v_weapon_Left_Middle02
+  - first:
+      1: 100042
+    second: v_weapon_Left_Middle03
+  - first:
+      1: 100044
+    second: v_weapon_Left_Pinky01
+  - first:
+      1: 100046
+    second: v_weapon_Left_Pinky02
+  - first:
+      1: 100048
+    second: v_weapon_Left_Pinky03
+  - first:
+      1: 100050
+    second: v_weapon_Left_Ring01
+  - first:
+      1: 100052
+    second: v_weapon_Left_Ring02
+  - first:
+      1: 100054
+    second: v_weapon_Left_Ring03
+  - first:
+      1: 100056
+    second: v_weapon_Left_Thumb01
+  - first:
+      1: 100058
+    second: v_weapon_Left_Thumb03
+  - first:
+      1: 100060
+    second: v_weapon_Left_Thumb_02
+  - first:
+      1: 100062
+    second: v_weapon_R_wrist_helper
+  - first:
+      1: 100064
+    second: v_weapon_Right_Arm
+  - first:
+      1: 100066
+    second: v_weapon_Right_Hand
+  - first:
+      1: 100068
+    second: v_weapon_Right_Index01
+  - first:
+      1: 100070
+    second: v_weapon_Right_Index02
+  - first:
+      1: 100072
+    second: v_weapon_Right_Index03
+  - first:
+      1: 100074
+    second: v_weapon_Right_Middle01
+  - first:
+      1: 100076
+    second: v_weapon_Right_Middle02
+  - first:
+      1: 100078
+    second: v_weapon_Right_Middle03
+  - first:
+      1: 100080
+    second: v_weapon_Right_Pinky01
+  - first:
+      1: 100082
+    second: v_weapon_Right_Pinky02
+  - first:
+      1: 100084
+    second: v_weapon_Right_Pinky03
+  - first:
+      1: 100086
+    second: v_weapon_Right_Ring01
+  - first:
+      1: 100088
+    second: v_weapon_Right_Ring02
+  - first:
+      1: 100090
+    second: v_weapon_Right_Ring03
+  - first:
+      1: 100092
+    second: v_weapon_Right_Thumb01
+  - first:
+      1: 100094
+    second: v_weapon_Right_Thumb02
+  - first:
+      1: 100096
+    second: v_weapon_Right_Thumb03
+  - first:
+      1: 100098
+    second: v_weapon_Root16
+  - first:
+      1: 100100
+    second: v_weapon_Root17
+  - first:
+      1: 100102
+    second: v_weapon_Root18
+  - first:
+      1: 100104
+    second: v_weapon_Root19
+  - first:
+      1: 100106
+    second: v_weapon_Root20
+  - first:
+      1: 100108
+    second: v_weapon_Root21
+  - first:
+      1: 100110
+    second: v_weapon_Root23
+  - first:
+      1: 100112
+    second: v_weapon_Root24
+  - first:
+      1: 100114
+    second: v_weapon_Root25
+  - first:
+      1: 100116
+    second: v_weapon_Root26
+  - first:
+      1: 100118
+    second: v_weapon_Root27
+  - first:
+      1: 100120
+    second: v_weapon_Root28
+  - first:
+      1: 100122
+    second: v_weapon_Root34
+  - first:
+      1: 100124
+    second: v_weapon_Root36
+  - first:
+      1: 100126
+    second: v_weapon_Root98
+  - first:
+      1: 100128
+    second: v_weapon_Root99
+  - first:
+      4: 400000
+    second: ak47_reference
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: v_weapon
+  - first:
+      4: 400006
+    second: v_weapon_AK47_Bolt
+  - first:
+      4: 400008
+    second: v_weapon_AK47_Clip
+  - first:
+      4: 400010
+    second: v_weapon_AK47_ClipRelease
+  - first:
+      4: 400012
+    second: v_weapon_AK47_Parent
+  - first:
+      4: 400014
+    second: v_weapon_AK47_Trigger
+  - first:
+      4: 400016
+    second: v_weapon_eff16
+  - first:
+      4: 400018
+    second: v_weapon_eff18
+  - first:
+      4: 400020
+    second: v_weapon_eff2
+  - first:
+      4: 400022
+    second: v_weapon_eff9
+  - first:
+      4: 400024
+    second: v_weapon_Hands_parent
+  - first:
+      4: 400026
+    second: v_weapon_L_wrist_helper
+  - first:
+      4: 400028
+    second: v_weapon_Left_Arm
+  - first:
+      4: 400030
+    second: v_weapon_Left_Hand
+  - first:
+      4: 400032
+    second: v_weapon_Left_Index01
+  - first:
+      4: 400034
+    second: v_weapon_Left_Index02
+  - first:
+      4: 400036
+    second: v_weapon_Left_Index03
+  - first:
+      4: 400038
+    second: v_weapon_Left_Middle01
+  - first:
+      4: 400040
+    second: v_weapon_Left_Middle02
+  - first:
+      4: 400042
+    second: v_weapon_Left_Middle03
+  - first:
+      4: 400044
+    second: v_weapon_Left_Pinky01
+  - first:
+      4: 400046
+    second: v_weapon_Left_Pinky02
+  - first:
+      4: 400048
+    second: v_weapon_Left_Pinky03
+  - first:
+      4: 400050
+    second: v_weapon_Left_Ring01
+  - first:
+      4: 400052
+    second: v_weapon_Left_Ring02
+  - first:
+      4: 400054
+    second: v_weapon_Left_Ring03
+  - first:
+      4: 400056
+    second: v_weapon_Left_Thumb01
+  - first:
+      4: 400058
+    second: v_weapon_Left_Thumb03
+  - first:
+      4: 400060
+    second: v_weapon_Left_Thumb_02
+  - first:
+      4: 400062
+    second: v_weapon_R_wrist_helper
+  - first:
+      4: 400064
+    second: v_weapon_Right_Arm
+  - first:
+      4: 400066
+    second: v_weapon_Right_Hand
+  - first:
+      4: 400068
+    second: v_weapon_Right_Index01
+  - first:
+      4: 400070
+    second: v_weapon_Right_Index02
+  - first:
+      4: 400072
+    second: v_weapon_Right_Index03
+  - first:
+      4: 400074
+    second: v_weapon_Right_Middle01
+  - first:
+      4: 400076
+    second: v_weapon_Right_Middle02
+  - first:
+      4: 400078
+    second: v_weapon_Right_Middle03
+  - first:
+      4: 400080
+    second: v_weapon_Right_Pinky01
+  - first:
+      4: 400082
+    second: v_weapon_Right_Pinky02
+  - first:
+      4: 400084
+    second: v_weapon_Right_Pinky03
+  - first:
+      4: 400086
+    second: v_weapon_Right_Ring01
+  - first:
+      4: 400088
+    second: v_weapon_Right_Ring02
+  - first:
+      4: 400090
+    second: v_weapon_Right_Ring03
+  - first:
+      4: 400092
+    second: v_weapon_Right_Thumb01
+  - first:
+      4: 400094
+    second: v_weapon_Right_Thumb02
+  - first:
+      4: 400096
+    second: v_weapon_Right_Thumb03
+  - first:
+      4: 400098
+    second: v_weapon_Root16
+  - first:
+      4: 400100
+    second: v_weapon_Root17
+  - first:
+      4: 400102
+    second: v_weapon_Root18
+  - first:
+      4: 400104
+    second: v_weapon_Root19
+  - first:
+      4: 400106
+    second: v_weapon_Root20
+  - first:
+      4: 400108
+    second: v_weapon_Root21
+  - first:
+      4: 400110
+    second: v_weapon_Root23
+  - first:
+      4: 400112
+    second: v_weapon_Root24
+  - first:
+      4: 400114
+    second: v_weapon_Root25
+  - first:
+      4: 400116
+    second: v_weapon_Root26
+  - first:
+      4: 400118
+    second: v_weapon_Root27
+  - first:
+      4: 400120
+    second: v_weapon_Root28
+  - first:
+      4: 400122
+    second: v_weapon_Root34
+  - first:
+      4: 400124
+    second: v_weapon_Root36
+  - first:
+      4: 400126
+    second: v_weapon_Root98
+  - first:
+      4: 400128
+    second: v_weapon_Root99
+  - first:
+      74: 7400000
+    second: Default Take
+  - first:
+      74: 7400002
+    second: ak47_draw
+  - first:
+      74: 7400004
+    second: ak47_fire1
+  - first:
+      74: 7400006
+    second: ak47_fire2
+  - first:
+      74: 7400008
+    second: ak47_fire3
+  - first:
+      74: 7400010
+    second: ak47_idle
+  - first:
+      74: 7400012
+    second: ak47_reload
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ak47_draw
+      takeName: ak47_draw
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ak47_fire1
+      takeName: ak47_fire1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ak47_fire2
+      takeName: ak47_fire2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ak47_fire3
+      takeName: ak47_fire3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ak47_idle
+      takeName: ak47_idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 0.1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ak47_reload
+      takeName: ak47_reload
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: v_ak47_anims(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ak47_reference
+      parentName: v_ak47_anims(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: v_weapon_AK47_Parent
+      parentName: ak47_reference
+      position: {x: 0.08620882, y: 0.044146918, z: -0.18917198}
+      rotation: {x: 0.7063815, y: -0.6944154, z: 0.11810303, w: 0.069742784}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.9999998}
+    - name: v_weapon_AK47_Bolt
+      parentName: v_weapon_AK47_Parent
+      position: {x: -0.039398696, y: -0.00000001723993, z: 0.036053106}
+      rotation: {x: -0.00000010830518, y: -0.00000000340739, z: 0.000000027898043, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: v_weapon_AK47_Clip
+      parentName: v_weapon_AK47_Parent
+      position: {x: -0.027120592, y: -0.000000029612996, z: 0.041851103}
+      rotation: {x: 0.00000004271642, y: -0.00000000792571, z: -0.000000020288892, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: v_weapon_AK47_ClipRelease
+      parentName: v_weapon_AK47_Parent
+      position: {x: -0.013989837, y: -0.000000011902297, z: 0.026332919}
+      rotation: {x: 0.00000003428484, y: -0.00000000584033, z: 0.0000000019512323, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: v_weapon_AK47_Trigger
+      parentName: v_weapon_AK47_Parent
+      position: {x: -0.02660904, y: -0.0000000061205645, z: 0.011837919}
+      rotation: {x: -0.00000006087638, y: -0.000000004276296, z: 0.000000018631326, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: v_weapon_Hands_parent
+      parentName: ak47_reference
+      position: {x: 0.08593954, y: 0.031331163, z: -0.10354601}
+      rotation: {x: -0.38965496, y: -0.23788047, z: 0.8573128, w: 0.23790061}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: v_weapon_Left_Arm
+      parentName: v_weapon_Hands_parent
+      position: {x: -0.0130232675, y: -0.06274797, z: 0.07924677}
+      rotation: {x: -0.5418898, y: 0.12465202, z: 0.5167564, w: 0.650984}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999994}
+    - name: v_weapon_Left_Hand
+      parentName: v_weapon_Left_Arm
+      position: {x: -0.00000001589991, y: -0.08563284, z: 0.000000009224917}
+      rotation: {x: 0.122701466, y: 0.9248949, z: -0.06573148, w: -0.3538263}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999994}
+    - name: v_weapon_eff2
+      parentName: v_weapon_Left_Hand
+      position: {x: 0.000000005816181, y: -0.030265879, z: 0.000000005541456}
+      rotation: {x: 0.06754191, y: 0.021471435, z: -0.7385557, w: 0.670457}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: v_weapon_Root17
+      parentName: v_weapon_eff2
+      position: {x: 0.0036555815, y: 0.026573388, z: -0.0032476305}
+      rotation: {x: -0.034221604, y: 0.9946518, z: 0.09019444, w: -0.03690136}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: v_weapon_Left_Thumb01
+      parentName: v_weapon_Root17
+      position: {x: 0.000000008443981, y: 3.743233e-10, z: 0.0000000030427694}
+      rotation: {x: -0.14292493, y: 0.032393053, z: -0.21866077, w: 0.9647335}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+    - name: v_weapon_Left_Thumb_02
+      parentName: v_weapon_Left_Thumb01
+      position: {x: -0.0000000034596672, y: -0.018872095, z: 0.0000000030997613}
+      rotation: {x: -0.00000005039803, y: 0.000000041662666, z: 0.17861778, w: 0.98391855}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: v_weapon_Left_Thumb03
+      parentName: v_weapon_Left_Thumb_02
+      position: {x: 0.00039063624, y: -0.009979671, z: -0.0008984795}
+      rotation: {x: 0.022916814, y: -0.00707747, z: 0.26167694, w: 0.96485746}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.99999994}
+    - name: v_weapon_Root18
+      parentName: v_weapon_eff2
+      position: {x: -0.012139463, y: 0.004516857, z: -0.0005802294}
+      rotation: {x: 0.05069864, y: -0.6561344, z: -0.056781646, w: 0.750795}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: v_weapon_Left_Pinky01
+      parentName: v_weapon_Root18
+      position: {x: 4.0847425e-10, y: 0.000000012852908, z: 0.0000000024101137}
+      rotation: {x: 0.055974852, y: -0.026097437, z: -0.4216704, w: 0.9046435}
+      scale: {x: 0.99999964, y: 0.9999999, z: 1}
+    - name: v_weapon_Left_Pinky02
+      parentName: v_weapon_Left_Pinky01
+      position: {x: -0.0000000192797, y: -0.009638517, z: -0.0000000057338725}
+      rotation: {x: 0.045391183, y: -0.014168437, z: -0.29754508, w: 0.95352286}
+      scale: {x: 0.9999997, y: 0.9999998, z: 0.9999998}
+    - name: v_weapon_Left_Pinky03
+      parentName: v_weapon_Left_Pinky02
+      position: {x: -0.000000004052043, y: -0.0063200253, z: -0.000000010560833}
+      rotation: {x: 0.04468416, y: 0.016817216, z: -0.56703913, w: 0.82230604}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999997}
+    - name: v_weapon_Root19
+      parentName: v_weapon_eff2
+      position: {x: -0.0062018824, y: 0.0012664541, z: -0.00039312633}
+      rotation: {x: 0.06054125, y: -0.7313646, z: -0.057042193, w: 0.67689496}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: v_weapon_Left_Ring01
+      parentName: v_weapon_Root19
+      position: {x: -0.0000000058757275, y: 0.0000000088416865, z: -0.00000000455094}
+      rotation: {x: -0.038927387, y: 0.019675137, z: -0.4507085, w: 0.89160496}
+      scale: {x: 0.99999976, y: 1, z: 0.9999998}
+    - name: v_weapon_Left_Ring02
+      parentName: v_weapon_Left_Ring01
+      position: {x: 0.000000014692636, y: -0.012082344, z: -0.00000000791915}
+      rotation: {x: 0.05218214, y: -0.03152225, z: -0.5161424, w: 0.85433036}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: v_weapon_Left_Ring03
+      parentName: v_weapon_Left_Ring02
+      position: {x: -0.000000012276957, y: -0.0076306663, z: 0.0000000051542957}
+      rotation: {x: -0.010262242, y: -0.0016160661, z: -0.6223914, w: 0.7826373}
+      scale: {x: 0.99999994, y: 0.9999997, z: 0.9999999}
+    - name: v_weapon_Root20
+      parentName: v_weapon_eff2
+      position: {x: 0.000000003934574, y: -0.0000000032311158, z: 0.000000005785073}
+      rotation: {x: 0.081038326, y: -0.7436652, z: -0.03529211, w: 0.66268337}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.99999994}
+    - name: v_weapon_Left_Middle01
+      parentName: v_weapon_Root20
+      position: {x: 0.0000000023275375, y: -0.0000000019819426, z: 0.0000000025186566}
+      rotation: {x: -0.08038914, y: 0.03527327, z: -0.40025222, w: 0.91219056}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: v_weapon_Left_Middle02
+      parentName: v_weapon_Left_Middle01
+      position: {x: -0.000000009883473, y: -0.0125057865, z: 0.000000006068096}
+      rotation: {x: 0.06470762, y: -0.044659466, z: -0.5663045, w: 0.8204375}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: v_weapon_Left_Middle03
+      parentName: v_weapon_Left_Middle02
+      position: {x: 0.000000007962878, y: -0.009326343, z: -0.0000000072677913}
+      rotation: {x: 0.0000026478535, y: 0.0000029802732, z: -0.6755711, w: 0.73729485}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: v_weapon_Root21
+      parentName: v_weapon_eff2
+      position: {x: 0.006577266, y: 0.0009376224, z: 0.0006287561}
+      rotation: {x: 0.0876544, y: -0.74756014, z: -0.027911639, w: 0.6577929}
+      scale: {x: 1, y: 0.9999999, z: 0.9999998}
+    - name: v_weapon_Left_Index01
+      parentName: v_weapon_Root21
+      position: {x: -4.433609e-10, y: -0.000000002184356, z: -0.0000000056274505}
+      rotation: {x: 0.68739814, y: -0.056067254, z: -0.09803714, w: 0.71744615}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.9999999}
+    - name: v_weapon_Left_Index02
+      parentName: v_weapon_Left_Index01
+      position: {x: 0.000000014143113, y: -0.012809727, z: 0.0000000028753158}
+      rotation: {x: -0.0009384153, y: 0.00083377195, z: -0.034796827, w: 0.99939364}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999994}
+    - name: v_weapon_Left_Index03
+      parentName: v_weapon_Left_Index02
+      position: {x: -0.0000000044478625, y: -0.0074937204, z: -6.5132355e-10}
+      rotation: {x: -0.0073009245, y: -0.00070786226, z: -0.29219648, w: 0.9563302}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: v_weapon_eff16
+      parentName: v_weapon_Left_Arm
+      position: {x: -0.000000012501201, y: -0.08563284, z: 0.000000007424647}
+      rotation: {x: 0.0000000033933312, y: -0.000000008913043, z: 0.00000001041048, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: v_weapon_Root16
+      parentName: v_weapon_eff16
+      position: {x: 0.0000000062777463, y: 8.356795e-10, z: 1.998401e-11}
+      rotation: {x: 0.6274283, y: 0.7181418, z: -0.03731458, w: -0.2986867}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: v_weapon_Root99
+      parentName: v_weapon_Left_Arm
+      position: {x: -0.000000012501201, y: -0.08563284, z: 0.000000007424647}
+      rotation: {x: 0.619768, y: 0.58659005, z: 0.39639512, w: 0.3386305}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: v_weapon_L_wrist_helper
+      parentName: v_weapon_Root99
+      position: {x: 0.000000016145503, y: 0.0000000032764658, z: 0.0000000027272098}
+      rotation: {x: 0.09706594, y: 0.000000019429613, z: 0.000000049157475, w: 0.99527794}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: v_weapon_Root34
+      parentName: v_weapon_Hands_parent
+      position: {x: -0.013023254, y: -0.06833632, z: 0.06671466}
+      rotation: {x: 0.87961763, y: -0.11193285, z: -0.38527492, w: 0.2555528}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: v_weapon_Root36
+      parentName: v_weapon_Hands_parent
+      position: {x: 0.014152796, y: 0.04654183, z: 0.069021985}
+      rotation: {x: 0.8796177, y: -0.11193258, z: -0.3852748, w: 0.2555528}
+      scale: {x: 1.0000004, y: 0.99999994, z: 0.9999999}
+    - name: v_weapon_Right_Arm
+      parentName: v_weapon_Root36
+      position: {x: -0.02285226, y: -0.010508127, z: -0.020430304}
+      rotation: {x: 0.21632019, y: -0.7529838, z: 0.6195456, w: 0.048830613}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.9999998}
+    - name: v_weapon_eff18
+      parentName: v_weapon_Right_Arm
+      position: {x: -0.000000013777703, y: -0.08543639, z: -0.000000017012514}
+      rotation: {x: 0.000000006758285, y: 0.000000007141873, z: -0.000000059987464, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: v_weapon_Root23
+      parentName: v_weapon_eff18
+      position: {x: -0.0000000052148548, y: -6.138438e-10, z: -0.0000000035392962}
+      rotation: {x: 0.029614951, y: -0.518971, z: 0.011671821, w: 0.85419893}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999998}
+    - name: v_weapon_Right_Hand
+      parentName: v_weapon_Root23
+      position: {x: 0.000000008355611, y: 0.0000000035989707, z: 0.000000005828769}
+      rotation: {x: 0.007422596, y: 0.016999565, z: 0.109374106, w: 0.9938276}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: v_weapon_eff9
+      parentName: v_weapon_Right_Hand
+      position: {x: -0.000000008617916, y: -0.030135235, z: -0.000000008106483}
+      rotation: {x: -0.0000000017948706, y: -0.000000024530813, z: 0.000000001993795, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: v_weapon_Root24
+      parentName: v_weapon_eff9
+      position: {x: -0.0031609102, y: 0.026590152, z: -0.00314416}
+      rotation: {x: -0.027340647, y: 0.9905746, z: 0.13037151, w: -0.031901892}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1.0000001}
+    - name: v_weapon_Right_Thumb01
+      parentName: v_weapon_Root24
+      position: {x: 0.000000006135163, y: 3.3608405e-10, z: 0.000000015321273}
+      rotation: {x: -0.014999784, y: -0.007112663, z: 0.42872232, w: 0.9032838}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+    - name: v_weapon_Right_Thumb02
+      parentName: v_weapon_Right_Thumb01
+      position: {x: -0.000000001129752, y: -0.019784767, z: -0.0000000050892868}
+      rotation: {x: -0.03126809, y: -0.00023056558, z: 0.0073703397, w: 0.9994839}
+      scale: {x: 0.9999999, y: 0.99999964, z: 0.9999998}
+    - name: v_weapon_Right_Thumb03
+      parentName: v_weapon_Right_Thumb02
+      position: {x: 0.000000005077402, y: -0.009824296, z: 0.000000001621389}
+      rotation: {x: 0.012254563, y: 0.0018517603, z: -0.20675378, w: 0.9783145}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: v_weapon_Root25
+      parentName: v_weapon_eff9
+      position: {x: -0.0065988307, y: 0.0008925498, z: 0.0006721512}
+      rotation: {x: 0.07798675, y: 0.73192066, z: 0.10981577, w: 0.66794515}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: v_weapon_Right_Index01
+      parentName: v_weapon_Root25
+      position: {x: 0.0000000026193514, y: 0.000000011141748, z: -4.805901e-10}
+      rotation: {x: 0.029725596, y: 0.020874666, z: -0.08125558, w: 0.9960313}
+      scale: {x: 0.99999994, y: 0.9999997, z: 1.0000001}
+    - name: v_weapon_Right_Index02
+      parentName: v_weapon_Right_Index01
+      position: {x: 0.000000008570914, y: -0.012929717, z: -0.0000000052706666}
+      rotation: {x: 0.00000085309074, y: -0.000000094994824, z: 0.032339446, w: 0.99947697}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: v_weapon_Right_Index03
+      parentName: v_weapon_Right_Index02
+      position: {x: 0.000000013741406, y: -0.0075246613, z: 0.0000000072773463}
+      rotation: {x: 0.0000000053467573, y: 0.00000002835566, z: 0.22068869, w: 0.9753443}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: v_weapon_Root26
+      parentName: v_weapon_eff9
+      position: {x: -0.0000000031145932, y: -0.000000012504349, z: -2.7625346e-10}
+      rotation: {x: 0.071818896, y: 0.73720014, z: 0.11609783, w: 0.6617397}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1.0000001}
+    - name: v_weapon_Right_Middle01
+      parentName: v_weapon_Root26
+      position: {x: -0.000000008296766, y: 0.000000010655624, z: -0.00000001255815}
+      rotation: {x: 0.039830875, y: 0.02439325, z: -0.08766356, w: 0.9950546}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.99999976}
+    - name: v_weapon_Right_Middle02
+      parentName: v_weapon_Right_Middle01
+      position: {x: -0.0000000038340304, y: -0.012612237, z: 0.000000024047365}
+      rotation: {x: 0.000596169, y: 0.00025896338, z: 0.037260883, w: 0.99930537}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+    - name: v_weapon_Right_Middle03
+      parentName: v_weapon_Right_Middle02
+      position: {x: -0.000000019919195, y: -0.009432337, z: -4.864526e-10}
+      rotation: {x: 0.000000007239937, y: 0.00000003454003, z: 0.2630291, w: 0.9647879}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.9999999}
+    - name: v_weapon_Root27
+      parentName: v_weapon_eff9
+      position: {x: 0.0060796165, y: 0.0010852497, z: -0.0004420325}
+      rotation: {x: 0.08109532, y: 0.7437674, z: 0.10516834, w: 0.6551133}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.99999994}
+    - name: v_weapon_Right_Ring01
+      parentName: v_weapon_Root27
+      position: {x: -0.0000000036784342, y: -1.3144365e-10, z: 0.0000000056641176}
+      rotation: {x: 0.027213262, y: 0.022000747, z: -0.08822534, w: 0.99548566}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: v_weapon_Right_Ring02
+      parentName: v_weapon_Right_Ring01
+      position: {x: -0.0000000087881515, y: -0.012083721, z: 0.000000008856272}
+      rotation: {x: -0.00039510027, y: -0.000571081, z: 0.032790434, w: 0.999462}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: v_weapon_Right_Ring03
+      parentName: v_weapon_Right_Ring02
+      position: {x: -0.000000013051513, y: -0.0074194213, z: 0.000000015384972}
+      rotation: {x: -0.00094065286, y: -0.0009860431, z: 0.22509903, w: 0.97433496}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1}
+    - name: v_weapon_Root28
+      parentName: v_weapon_eff9
+      position: {x: 0.0119170165, y: 0.004798028, z: -0.00061835366}
+      rotation: {x: 0.10466985, y: 0.70838267, z: 0.08453714, w: 0.6928865}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: v_weapon_Right_Pinky01
+      parentName: v_weapon_Root28
+      position: {x: -0.0000000031740455, y: -0.000000016919309, z: 0.0000000033182053}
+      rotation: {x: -0.0006004867, y: 0.060940623, z: -0.0876302, w: 0.99428713}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: v_weapon_Right_Pinky02
+      parentName: v_weapon_Right_Pinky01
+      position: {x: 0.0000000066086088, y: -0.009962235, z: 0.000000007659979}
+      rotation: {x: 0.00085186143, y: 0.008215833, z: 0.022017265, w: 0.9997235}
+      scale: {x: 0.9999997, y: 0.9999998, z: 1.0000001}
+    - name: v_weapon_Right_Pinky03
+      parentName: v_weapon_Right_Pinky02
+      position: {x: 0.0000000072638002, y: -0.0061469316, z: -8.174133e-10}
+      rotation: {x: -0.0000000073458937, y: 0.000000010779067, z: 0.25881577, w: 0.9659267}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: v_weapon_Root98
+      parentName: v_weapon_Right_Arm
+      position: {x: -0.000000016307947, y: -0.08543639, z: -0.000000014788893}
+      rotation: {x: 0.72511435, y: 0.6465524, z: -0.15355204, w: -0.18055737}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999999}
+    - name: v_weapon_R_wrist_helper
+      parentName: v_weapon_Root98
+      position: {x: -0.00000000809482, y: -0.000000010764809, z: 0.0000000091222665}
+      rotation: {x: 0.0000000058572245, y: 3.921767e-10, z: -0.0000000031919534, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: v_weapon
+      parentName: ak47_reference
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.50000006, y: 0.49999994, z: -0.49999994, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

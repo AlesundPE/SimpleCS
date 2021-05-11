@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d204d891a01de404fa70a8d52307eb62, type: 3}
+  m_Name: Foot Step Audio
+  m_EditorClassIdentifier: 
+  FootStepAudioDatas:
+  - Tag: dirt
+    AudioClips:
+    - {fileID: 8300000, guid: 5178f5d4fc3edb549b574b762c7c7ee6, type: 3}
+    - {fileID: 8300000, guid: 8bf40617c36613a4a9a17a840835a4a5, type: 3}
+    - {fileID: 8300000, guid: c4c898172af693c4dbb00a320650d215, type: 3}
+    - {fileID: 8300000, guid: 5a8254810bb78ed4680e925404ad6595, type: 3}
+    delay: 0
+  - Tag: duct
+    AudioClips:
+    - {fileID: 8300000, guid: 737e676377c7fb34a86211eefc3ea2c6, type: 3}
+    - {fileID: 8300000, guid: 5c37fb5a9d01b4b4da44aad027efb218, type: 3}
+    - {fileID: 8300000, guid: 12da26e2afbbe5c4d9811d116e67860f, type: 3}
+    - {fileID: 8300000, guid: 93f49e7ffe0666c4f951a85a15277ff4, type: 3}
+    delay: 0
+  - Tag: grate
+    AudioClips:
+    - {fileID: 8300000, guid: 7d45d45f7b6c5c74f8030b5718d1e8e8, type: 3}
+    - {fileID: 8300000, guid: 86aa130b6aeddbc45b907bcca82ddd86, type: 3}
+    - {fileID: 8300000, guid: 675e99932da917e47aa51433e4e123f6, type: 3}
+    - {fileID: 8300000, guid: 484372ae04a2e0341abc024a4f632817, type: 3}
+    delay: 0
+  - Tag: metal
+    AudioClips:
+    - {fileID: 8300000, guid: 11061ed12c79d544d903a1614131ebe7, type: 3}
+    - {fileID: 8300000, guid: fba322c8dd04e8d47a4933f614cc1ea2, type: 3}
+    - {fileID: 8300000, guid: 029fbd7b7ecf75f438ffd337216a82b8, type: 3}
+    - {fileID: 8300000, guid: 4608b9a7af1ccf444b224634583d643f, type: 3}
+    delay: 0
+  - Tag: slosh
+    AudioClips:
+    - {fileID: 8300000, guid: c40636798f6afba4e926e7edf63b4277, type: 3}
+    - {fileID: 8300000, guid: 68696a7b2f73f9d4593bea5cf94d6245, type: 3}
+    - {fileID: 8300000, guid: 5461c2c37a08a3848884c0b937760942, type: 3}
+    - {fileID: 8300000, guid: 0c07978faa75c3c4f860186ffa344e6f, type: 3}
+    delay: 0
+  - Tag: snow
+    AudioClips:
+    - {fileID: 8300000, guid: 77045fcac3a46e04e8f3fe2bd3325300, type: 3}
+    - {fileID: 8300000, guid: 83f3899cdcae98447bc1815fbcaad572, type: 3}
+    - {fileID: 8300000, guid: ded1c275403e8dc42b84508108b7c3c5, type: 3}
+    - {fileID: 8300000, guid: 8c1882cc5c3b11c44822df7e77932005, type: 3}
+    - {fileID: 8300000, guid: 108801976a3a9454cab2de03dff1863e, type: 3}
+    - {fileID: 8300000, guid: 686a988bd291704428475b92c9de9faf, type: 3}
+    delay: 0
+  - Tag: step
+    AudioClips:
+    - {fileID: 8300000, guid: 37c78f27636e9b142b7c5a11c2aaf2fc, type: 3}
+    - {fileID: 8300000, guid: 9f5dd6e9544513a409d45ded7ca890fc, type: 3}
+    - {fileID: 8300000, guid: a1ad43a6d388e604c940c259c4388b3f, type: 3}
+    - {fileID: 8300000, guid: 086601035f7f8424d8a142406b877798, type: 3}
+    delay: 0
+  - Tag: tile
+    AudioClips:
+    - {fileID: 8300000, guid: f7b8bc12907c2ef439f7aeb82c8daacb, type: 3}
+    - {fileID: 8300000, guid: 5802bf2d23625a14bafd0b449f9e4881, type: 3}
+    - {fileID: 8300000, guid: c97bcf54cd0bf024998101b1de987db2, type: 3}
+    - {fileID: 8300000, guid: 6807f88dbd878424294d22fc866cf353, type: 3}
+    - {fileID: 8300000, guid: c5b55653b64fe0a439e0a0b855c87bce, type: 3}
+    delay: 0
+  - Tag: ladder
+    AudioClips:
+    - {fileID: 8300000, guid: c2d3e5bb0a37e434ba634123881cb04b, type: 3}
+    - {fileID: 8300000, guid: c920c5fa00a656d4ea63c9510a791842, type: 3}
+    - {fileID: 8300000, guid: be83ea99e54d8b945ba82103ebbfd91f, type: 3}
+    - {fileID: 8300000, guid: d156983fd53142145a618ce32f5eb66a, type: 3}
+    delay: 0

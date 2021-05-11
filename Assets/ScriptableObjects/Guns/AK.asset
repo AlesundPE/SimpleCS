@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c99ee6dce1a011248a498223023709f0, type: 3}
+  m_Name: AK
+  m_EditorClassIdentifier: 
+  name: AK
+  damage: 40
+  ammo: 90
+  clipSize: 30
+  firerate: 0.1
+  bloom: 15
+  recoil: 5
+  kickback: 0.2
+  reload: 3.75
+  isAutomatic: 1
+  prefab: {fileID: 5252971690277225157, guid: cda08efb55cea78409eea6e579efd6c1, type: 3}
+  gunshotSound:
+  - {fileID: 8300000, guid: ed25821ee03245e4e873cf635e1fc3a5, type: 3}
+  - {fileID: 8300000, guid: f6ad64f503457b5499fc6e1df1058914, type: 3}
+  pitchRandomization: 0
