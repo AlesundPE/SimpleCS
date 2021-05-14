@@ -2251,7 +2251,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5974376686953604951}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: Capsule_rif
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2315,7 +2315,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5974376686953604955}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: Fire_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2345,7 +2345,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5974376686953604957}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: Smoke_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2375,7 +2375,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5974376686953604959}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: Fire_Glow
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,4 +11,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/de_dust2.unity
     guid: afca89cc3a7750b46bc843851dbf748f
+  - enabled: 1
+    path: Assets/Scenes/de_train.unity
+    guid: 705ab2c9d1608ed4b9b4afacf20e08a5
+  - enabled: 1
+    path: Assets/Scenes/de_nuke.unity
+    guid: 93098b7c8fbb8994996f607171341b65
+  - enabled: 1
+    path: Assets/Scenes/de_dust.unity
+    guid: 23e5727abd798bb489e532fcad10ba81
+  - enabled: 1
+    path: Assets/Scenes/cs_italy.unity
+    guid: b495ee14261855e4fa11e60b80ab527f
   m_configObjects: {}

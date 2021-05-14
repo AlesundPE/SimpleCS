@@ -25,9 +25,13 @@ namespace com.yiran.SimpleCS{
         private bool isReloading;
         private bool isCrouching;
 
+        public Cinemachine.CinemachineFreeLook playerCamera;
+
         #endregion
 
         #region Private methods
+
+        
 
         void Start(){
             foreach(GunGeneration a in loadout) a.Initialize();
@@ -64,9 +68,7 @@ namespace com.yiran.SimpleCS{
                 //Weapon position elasticity 
                 currentEquipment.transform.localPosition = Vector3.Lerp(
                 currentEquipment.transform.localPosition, Vector3.zero, Time.deltaTime * 4f);
-            }
-
-            
+            }      
         }
 
         IEnumerator Reload(float p_wait){
@@ -141,11 +143,12 @@ namespace com.yiran.SimpleCS{
             }
 
             //Sound
-            sfx.pitch = Random.Range (0.9f, 1.1f);
-            sfx.volume = Random.Range (0.8f, 1);
+            sfx.pitch = Random.Range (0.8f, 1.1f);
+            sfx.volume = Random.Range (0.6f, 0.8f);
             sfx.PlayOneShot(GetClipFromArray(loadout[currentIndex].gunshotSound), 1);
 
             //Recoil
+            playerCamera.m_YAxis.Value -= loadout[currentIndex].recoil*0.01f;
 
             if (isCrouching){
                 currentEquipment.transform.Rotate(-loadout[currentIndex].recoil*0.5f,0,0);
@@ -157,6 +160,7 @@ namespace com.yiran.SimpleCS{
                 currentEquipment.transform.position -= currentEquipment.transform.forward*
                 loadout[currentIndex].kickback;
             }
+
             
         }
 

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Glock
   m_EditorClassIdentifier: 
   name: Glock
-  damage: 20
+  damage: 10
   ammo: 120
   clipSize: 20
   firerate: 0.2
